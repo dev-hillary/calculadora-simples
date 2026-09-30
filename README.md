@@ -10,4 +10,4 @@ Calculadora simples desenvolvida com **HTML, CSS e JavaScript** para praticar l�
 
 ## 👩‍💻 Desenvolvido por
 
-**Hillary Alcântara**
+**Hillary**
