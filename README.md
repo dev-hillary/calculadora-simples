@@ -8,6 +8,10 @@ Calculadora simples desenvolvida com **HTML, CSS e JavaScript** para praticar l�
 - CSS
 - JavaScript
 
+## Acesse o projeto
+
+https://dev-hillary.github.io/calculadora-simples/
+
 ## 👩‍💻 Desenvolvido por
 
 **Hillary**
